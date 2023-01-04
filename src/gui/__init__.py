@@ -16,5 +16,10 @@ import tkinter as tk
 
 def start() -> None:
 	window = tk.Tk()
+
 	window.title('AFFP')
+	window.configure(
+		background = '#3c5d2f'
+	)
+
 	window.mainloop()
