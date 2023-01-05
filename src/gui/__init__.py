@@ -19,7 +19,7 @@ def start() -> None:
 
 	window.title('AFFP')
 	window.configure(
-		background = '#3c5d2f'
+		background = '#d9d9d9'
 	)
 
 	window.mainloop()
